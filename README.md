@@ -1,5 +1,7 @@
 # Particle characterization for the NREL 2FBR system
 
+[![DOI](https://zenodo.org/badge/120350284.svg)](https://zenodo.org/badge/latestdoi/120350284)
+
 Particle samples of loblolly pine, fresh sand, used sand, fresh catalyst, and
 used catalyst were obtained from a single experimental run of the NREL 2FBR
 system. The NREL system is comprised of a fluidized-bed fast pyrolysis unit
