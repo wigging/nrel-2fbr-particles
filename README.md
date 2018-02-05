@@ -2,15 +2,21 @@
 
 Particle samples of loblolly pine, fresh sand, used sand, fresh catalyst, and
 used catalyst were obtained from a single experimental run of the NREL 2FBR
-system. Sieve measurements of the particles were conducted at UTK. Analyses of
-the particles were performed by [Galbraith][gal]. Size measurements of the
-particles were performed by [Microtrac][mic]. More information about the NREL
-2FBR system is available at [ccpcode.github.io/docs-2fbr/][nre]. A summary of
-each folder in this repository is provided below.
+system. The NREL system is comprised of a fluidized-bed fast pyrolysis unit
+and a fluidized-bed vapor phase upgrader for thermochemical conversion of
+biomass to bio-oil. More information about the NREL 2FBR system is available
+at [ccpcode.github.io/docs-2fbr/][2fbr] and [cpcbiomass.org][ccpc].
+
+[2fbr]: https://ccpcode.github.io/docs-2fbr/
+[ccpc]: https://www.cpcbiomass.org
+
+Sieve measurements of the particles were conducted at UTK. Analyses of the
+particles were performed by [Galbraith][gal]. Size measurements of the
+particles were performed by [Microtrac][mic]. A summary of each folder in this
+repository is provided below.
 
 [gal]: http://galbraith.com
 [mic]: https://www.microtrac.com
-[nre]: https://ccpcode.github.io/docs-2fbr/
 
 **code** - This folder contains Python code provided as Jupyter notebooks or
 individual scripts for analyzing data from the sieve measurements, Galbraith
