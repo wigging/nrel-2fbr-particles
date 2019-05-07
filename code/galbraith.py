@@ -4,7 +4,6 @@ are saved to the results/ folder in the main repository.
 """
 
 import matplotlib.pyplot as plt
-import numpy as np
 import pandas as pd
 
 # Read data and assign to variables
@@ -89,4 +88,3 @@ plt.xticks([0, 1, 2, 3, 4, 5, 6], xvals)
 plt.xlabel('Sieve Size [um]')
 plt.ylabel('Fixed Carbon [% dry]')
 plt.legend(loc='best')
-
